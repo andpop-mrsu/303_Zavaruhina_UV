@@ -34,6 +34,8 @@
  - movieId: int
  - timestamp: float
  - tag: string
+3. Количество: 3683
+
 
 ## Имя файла: users
 1. Тип файла: txt
